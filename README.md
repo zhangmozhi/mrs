@@ -4,7 +4,7 @@ This repository contains the multilingual reply suggestion (MRS) dataset introdu
 
 Mozhi Zhang, Wei Wang, Budhaditya Deb, Guoqing Zheng, Milad Shokouhi, Ahmed Hassan Awadallah. _A Dataset and Baselines for Multilingual Reply Suggestion_.
 
-If you find this repostiroy useful, please cite:
+If you find MRS useful, please cite:
 ```
 @inproceedings{zhang-2021-mrs,
 	Title = {A Dataset and Baselines for Multilingual Reply Suggestion},
