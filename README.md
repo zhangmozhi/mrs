@@ -2,7 +2,7 @@
 
 This repository contains the multilingual reply suggestion (MRS) dataset introduced in our ACL 2021 paper:
 
-Mozhi Zhang, Wei Wang, Budhaditya Deb, Guoqing Zheng, Milad Shokouhi, Ahmed Hassan Awadallah. _A Dataset and Baselines for Multilingual Reply Suggestion_
+Mozhi Zhang, Wei Wang, Budhaditya Deb, Guoqing Zheng, Milad Shokouhi, Ahmed Hassan Awadallah. _A Dataset and Baselines for Multilingual Reply Suggestion_.
 
 If you find this repostiroy useful, please cite:
 ```
