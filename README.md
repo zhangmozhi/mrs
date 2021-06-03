@@ -1,8 +1,12 @@
-# Multilingual Reply Suggestion (Coming Soon)
+# Multilingual Reply Suggestion (MRS)
 
-This repository contains the multilingual reply suggestion (MRS) dataset introduced in our ACL 2021 paper:
+This repository is for our ACL 2021 paper:
 
 Mozhi Zhang, Wei Wang, Budhaditya Deb, Guoqing Zheng, Milad Shokouhi, Ahmed Hassan Awadallah. _A Dataset and Baselines for Multilingual Reply Suggestion_.
+
+Click [here](https://obj.umiacs.umd.edu/mrs/mrs.tgz) to download the dataset.
+
+Code will be released later. Stay tuned!
 
 If you find MRS useful, please cite:
 ```
